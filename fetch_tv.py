@@ -10,12 +10,12 @@ headers = {
 # 频道映射关系：{ M3U中的频道识别特征: (输出的ID/名称, 显示标题) }
 TARGET_CHANNELS = {
     "CCTV-5体育": {
-        "id": "CCTV5",
+        "id": "CCTV-5 体育",
         "title": "CCTV-5 体育"
     },
     "CCTV-13新闻": {
-        "id": "CCTV1",
-        "title": "CCTV-1综合"
+        "id": "CCTV-13新闻",
+        "title": "CCTV-13新闻"
     },
     "广东体育": {
         "id": "广东体育",
