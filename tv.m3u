@@ -1,11 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5",CCTV-5 体育
+http://142.54.178.42:88/applive/byt.m3u8?u=172.208.153.16&t=1784867800&k=92378b185efd2d9c2d2d5068b78f56af&a=zjstream1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1",CCTV-1综合
+http://192.187.115.106:82/live/cctv13md.m3u8?jsbt=1784867800&jsbk=6251da628d338b88b7abf17316d27796
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育",广东体育
-http://107.150.42.114:82/live/gdty.m3u8?jsbt=1784867676&jsbk=a0e85692adf05ec86cc1d66cc298e713
+http://142.54.178.42:88/applive/102.m3u8?u=172.208.153.16&t=1784867801&k=7aadf95480af925dce4b6ba4625d9819&a=zjstream1
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球",央视台球
-http://142.54.178.42:82/live/ystq.m3u8?jsbt=1784867676&jsbk=a7dbeea895afd79064c333279de4234a
+http://142.54.178.42:88/applive/102.m3u8?u=172.208.153.16&t=1784867802&k=8d7d1de7e786a29b2c55e90f3274fa23&a=zjstream1
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影",CHC动作电影
-http://69.30.245.51:82/live/chcdz.m3u8?jsbt=1784867676&jsbk=407c0de8c77b6cd3ccac6ac16619f177
+http://142.54.178.42:88/applive/byt.m3u8?u=172.208.153.16&t=1784867802&k=355260d98e58b33cd8cde7befd1b0bb2&a=zjstream1
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院",CHC家庭影院
-http://69.30.245.51:82/live/chcjt.m3u8?jsbt=1784867676&jsbk=75ba0d90d271f5e598f92d9143426190
+http://173.208.187.18:82/live/chcjt.m3u8?jsbt=1784867803&jsbk=153e621c54e20be4aff34031c164366c
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影",CHC影迷电影
-http://69.30.245.51:82/live/chchd.m3u8?jsbt=1784867676&jsbk=57d6de8f39bc7e2fafefa5565add26ea
+http://173.208.187.18:82/live/chchd.m3u8?jsbt=1784867803&jsbk=3ce1f0fa77be75eac4a5b95358d6b5bc
