@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育",CCTV-5 体育
-http://107.150.35.234:88/applive/yss.m3u8?u=64.236.192.147&t=1784894640&k=be535be3ec7320d844282f196bd96810&a=zjstream1
+http://142.54.162.26:82/live/cctv5md.m3u8?jsbt=1784902965&jsbk=68fcdd117b3cb2d1dfdbe00d88e1268e
 #EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻",CCTV-13新闻
-http://142.54.162.26:82/live/cctv13md.m3u8?jsbt=1784894640&jsbk=d310b2a1f2719f2b65c5df75be8457d0
+http://192.187.115.106:82/live/cctv13md.m3u8?jsbt=1784902966&jsbk=25f54af2ff0edeb67865ccf51fbd1c4f
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育",广东体育
-http://107.150.42.114:82/live/gdty.m3u8?jsbt=1784894640&jsbk=0c6dc7e92b7984eb2996fc6eb94822a3
+http://107.150.42.114:82/live/gdty.m3u8?jsbt=1784902966&jsbk=c7febc875864b155203c638f80015137
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球",央视台球
-http://199.168.97.90:82/live/ystq.m3u8?jsbt=1784894640&jsbk=63eafcd67db6ecf8c11d1d7363851166
+http://199.168.97.90:82/live/ystq.m3u8?jsbt=1784902966&jsbk=7379dd17f3a35bc174b8bf6dbeb9bb79
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影",CHC动作电影
-http://173.208.128.194:82/live/chcdz.m3u8?jsbt=1784894641&jsbk=13bf8505c727ce4b9dc05ba9e97b86bc
+http://107.150.55.138:88/applive/102.m3u8?u=20.169.53.116&t=1784902966&k=57f354cca4aca153e74b0d2e6b9b018a&a=zjstream1
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院",CHC家庭影院
-http://173.208.128.194:82/live/chcjt.m3u8?jsbt=1784894641&jsbk=65e6a83b1f446e280aeac5123a5e00f2
+http://173.208.128.194:82/live/chcjt.m3u8?jsbt=1784902967&jsbk=5dd3b2433bad712974a6e8c56d3ddc02
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影",CHC影迷电影
-http://173.208.128.194:82/live/chchd.m3u8?jsbt=1784894641&jsbk=89a874dc37967bbaca34956568b4230c
+http://173.208.128.194:82/live/chchd.m3u8?jsbt=1784902967&jsbk=4df95eaee1e13fb420da91b570383a8e
