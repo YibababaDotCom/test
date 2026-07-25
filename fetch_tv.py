@@ -10,25 +10,10 @@ headers = {
 
 # 频道映射关系：支持多个可能的匹配关键字（列表形式），提高命中率
 TARGET_CHANNELS = {
-    "CCTV-5体育 线路A": {
-        "id": "CCTV-5体育 线路A",
-        "title": "CCTV-5体育 线路A",
-        "keywords": ["CCTV-5体育 线路A"]
-    },
-    "CCTV-5体育 线路B": {
-        "id": "CCTV-5体育 线路B",
-        "title": "CCTV-5体育 线路B",
-        "keywords": ["CCTV-5体育 线路B"]
-    },
-    "CCTV-5体育 线路C": {
-        "id": "CCTV-5体育 线路C",
-        "title": "CCTV-5体育 线路C",
-        "keywords": ["CCTV-5体育 线路C"]
-    },
-    "CCTV-5体育 线路D": {
-        "id": "CCTV-5体育 线路D",
-        "title": "CCTV-5体育 线路D",
-        "keywords": ["CCTV-5体育 线路D"]
+    "CCTV-5体育": {
+        "id": "CCTV-5体育",
+        "title": "CCTV-5体育",
+        "keywords": ["CCTV-5体育"]
     },
     "CCTV-5+体育赛事": {
         "id": "CCTV-5+体育赛事",
