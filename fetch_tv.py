@@ -109,6 +109,31 @@ TARGET_CHANNELS = {
         "id": "发现之旅",
         "title": "发现之旅",
         "keywords": ["发现之旅"]
+    },
+    "CCTV-4K": {
+        "id": "CCTV-4K",
+        "title": "CCTV-4K",
+        "keywords": ["CCTV-4K"]
+    },
+    "CCTV-8K": {
+        "id": "CCTV-8K",
+        "title": "CCTV-8K",
+        "keywords": ["CCTV-8K"]
+    },
+    "周星驰电影": {
+        "id": "周星驰电影",
+        "title": "周星驰电影",
+        "keywords": ["周星驰电影"]
+    },
+    "周润发电影": {
+        "id": "周润发电影",
+        "title": "周润发电影",
+        "keywords": ["周润发电影"]
+    },
+    "成龙电影": {
+        "id": "成龙电影",
+        "title": "成龙电影",
+        "keywords": ["成龙电影"]
     }
 }
 
