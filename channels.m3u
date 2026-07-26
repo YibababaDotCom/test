@@ -37,3 +37,13 @@ http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 #EXTINF:-1,发现之旅
 http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+#EXTINF:-1,CCTV-4K
+http://192.151.150.154/live/cctv4k.m3u8
+#EXTINF:-1,CCTV-8K
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1,周星驰电影
+http://192.151.150.154/live/lbzxc.m3u8
+#EXTINF:-1,周润发电影
+http://192.151.150.154/live/lbzrf.m3u8
+#EXTINF:-1,成龙电影
+http://192.151.150.154/live/lbcl.m3u8
