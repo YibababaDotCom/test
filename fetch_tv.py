@@ -20,6 +20,11 @@ TARGET_CHANNELS = {
         "title": "CCTV-5体育 线路B",
         "keywords": ["CCTV-5体育 线路B"]
     },
+    "CCTV-5体育 线路C": {
+        "id": "CCTV-5体育 线路C",
+        "title": "CCTV-5体育 线路C",
+        "keywords": ["CCTV-5体育 线路C"]
+    },
     "CCTV-5+体育赛事": {
         "id": "CCTV-5+体育赛事",
         "title": "CCTV-5+体育赛事",
