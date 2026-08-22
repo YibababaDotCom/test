@@ -130,6 +130,11 @@ TARGET_CHANNELS = {
         "title": "CCTV-8K",
         "keywords": ["CCTV-8K"]
     },
+    "重温经典": {
+        "id": "重温经典",
+        "title": "重温经典",
+        "keywords": ["重温经典"]
+    },
     "周星驰电影": {
         "id": "周星驰电影",
         "title": "周星驰电影",
