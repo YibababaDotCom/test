@@ -1,55 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV-5体育 线路A" tvg-name="CCTV-5体育 线路A",CCTV-5体育 线路A
-http://204.12.224.154:82/live/cctv5.m3u8?jsbt=1789467780&jsbk=43c6db3bd7ebee5ecdbfb93bab060511
+http://204.12.224.154:82/live/cctv5.m3u8?jsbt=1789485250&jsbk=6d1e01474dc3de3d4a7aa525153d4e17
 #EXTINF:-1 tvg-id="CCTV-5体育 线路B" tvg-name="CCTV-5体育 线路B",CCTV-5体育 线路B
-http://204.12.224.154:88/applive/cctv5.m3u8?u=57.151.129.41&t=1789467780&k=f20162d6743f7711c2e128d31c9fefd7&a=zbdq4
+http://204.12.224.154:88/applive/cctv5.m3u8?u=20.55.15.10&t=1789485250&k=27cba22e23763b872f20442795ad0eaa&a=zbdq4
 #EXTINF:-1 tvg-id="CCTV-5体育 线路C" tvg-name="CCTV-5体育 线路C",CCTV-5体育 线路C
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=202609151816374f915de6fc3d4477aaadc84a39e351c5&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260915181637&Channel_ID=0116_2600033500-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=111.228.4.117&SecurityKey=20260915181637&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=01d4fa90d8fa4d1842b817b472a7728a&sv=10004&ct=android
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20260915225634142b57e315364013a9cbcf58c4496832&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260915225634&Channel_ID=0116_2600033500-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=111.228.4.117&SecurityKey=20260915225634&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d02cd8bccc17f563bea998c80126e0e5&sv=10004&ct=android
 #EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事",CCTV-5+体育赛事
-http://204.12.224.154:82/live/cctv5p.m3u8?jsbt=1789467783&jsbk=cdcbb50ef4086b28f0bb25ce11191289
+http://204.12.224.154:82/live/cctv5p.m3u8?jsbt=1789485254&jsbk=9d1b69051af895c6653304554e0920e8
 #EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-name="CCTV-16奥林匹克",CCTV-16奥林匹克
-http://204.12.207.154:82/live/cctv16.m3u8?jsbt=1789467784&jsbk=624f8e7ce37f4c599962d90850d2c3d0
+http://204.12.207.154:82/live/cctv16.m3u8?jsbt=1789485254&jsbk=379ac6db37d2754e94d26dc9b3cf3dfc
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育",广东体育
-http://198.204.234.58:82/live/gdty.m3u8?jsbt=1789467784&jsbk=4e58d61501e32bd5280fbb7505080510
+http://198.204.234.58:82/live/gdty.m3u8?jsbt=1789485254&jsbk=466a5e09879f1ac9f9b5544f4e39c6cf
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育",五星体育
-http://192.187.115.106:82/live/wxty.m3u8?jsbt=1789467784&jsbk=1d192a97f07ea8717812db236defc414
+http://74.91.16.250:82/live/wxty.m3u8?jsbt=1789485254&jsbk=d6373de6cfeb90e97131d4eea285033e
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球",高尔夫网球
-http://204.12.207.154:82/live/gefwq.m3u8?jsbt=1789467784&jsbk=1bda6714c2f4e7e3f9a5aca1b545fc7d
+http://204.12.207.154:82/live/gefwq.m3u8?jsbt=1789485254&jsbk=f1ed9eadbd4fa4417112ef8f26ddd78e
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球",央视台球
-http://142.54.178.42:82/live/ystq.m3u8?jsbt=1789467784&jsbk=a0f20e72a366ec1b25f05a1c93956606
+http://199.168.97.90:82/live/ystq.m3u8?jsbt=1789485255&jsbk=dd7083c22f072cb241c023a547811781
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐",风云音乐
-http://173.208.212.130:82/live/fyyy.m3u8?jsbt=1789467784&jsbk=2715d61ccae99e3fa24b5dfdc6e52829
+http://74.91.16.250:82/live/fyyy.m3u8?jsbt=1789485255&jsbk=5bdd77b17386911df97560737621f8cf
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球",风云足球
-http://107.150.35.234:88/applive/mkt.m3u8?u=57.151.129.41&t=1789467785&k=2b09743ad1f2e41e907e9507575498dc&a=zjstream1
+http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1789485255&jsbk=ebaceea29d1020e8133fc252467e943c
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场",风云剧场
-http://107.150.55.138:82/live/fyjc.m3u8?jsbt=1789467785&jsbk=80c8576bb91e7ba3982c9e22fc6dbc07
+http://69.197.146.2:82/live/fyjc.m3u8?jsbt=1789485255&jsbk=5def3965b217a33238ffd7dd5b26f765
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场",怀旧剧场
-http://74.91.16.250:82/live/hjjc.m3u8?jsbt=1789467785&jsbk=8d485ae5cd7dc5bac55f1ed4dbd6fca5
+http://74.91.16.250:82/live/hjjc.m3u8?jsbt=1789485255&jsbk=6fe1517d0cec7adbd0bddcce72d9820c
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场",第一剧场
-http://107.150.55.138:82/live/dyjc.m3u8?jsbt=1789467786&jsbk=1cb520f590405d2e136e34816bf0d962
+http://69.197.146.2:82/live/dyjc.m3u8?jsbt=1789485256&jsbk=7ded261b20b065a55980b9a380343c65
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理",世界地理
-http://173.208.212.130:82/live/sjdl.m3u8?jsbt=1789467786&jsbk=07099aae19348de166ee0439a06038b0
+http://69.30.196.146:82/live/sjdl.m3u8?jsbt=1789485256&jsbk=3cc6cffea172b955becbbcf94780ed4d
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚",女性时尚
-http://173.208.212.130:82/live/nxss.m3u8?jsbt=1789467786&jsbk=ed1b962d5be2aaaea45716bd0a9f2101
+http://69.197.181.106:88/applive/102.m3u8?u=20.55.15.10&t=1789485257&k=0e6ed79f5a9755624feda4491d666e4b&a=zjstream1
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影",CHC动作电影
-http://69.30.245.51:82/live/chcdz.m3u8?jsbt=1789467786&jsbk=6babeb681f63964a2f8573a70418a813
+http://69.30.245.194:82/live/chcdz.m3u8?jsbt=1789485257&jsbk=72b35405da45ff7a0e66270f8ed4c6cc
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院",CHC家庭影院
-http://69.30.245.51:82/live/chcjt.m3u8?jsbt=1789467786&jsbk=4c5db00d04571ed3fec270789bfec749
+http://69.30.245.194:82/live/chcjt.m3u8?jsbt=1789485257&jsbk=0f7c8e821fd552689d448c259830d0e4
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影",CHC影迷电影
-http://69.30.245.51:82/live/chchd.m3u8?jsbt=1789467786&jsbk=ae14c5ce9f7143503e26abaa105cf016
+http://69.30.245.194:82/live/chchd.m3u8?jsbt=1789485257&jsbk=d6edf47b27a66b4d7921c5b8e602f0e7
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事",老故事
-http://173.208.188.114:82/live/lgs.m3u8?jsbt=1789467786&jsbk=a1e7ded179c1f8a281415abb709fafa7
+http://173.208.188.114:82/live/lgs.m3u8?jsbt=1789485258&jsbk=3240905f1d669deb9bd31425a1618605
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅",发现之旅
-http://173.208.188.114:82/live/fxzl.m3u8?jsbt=1789467787&jsbk=546ee8be23dd992aa654d9286c918b28
+http://173.208.188.114:82/live/fxzl.m3u8?jsbt=1789485258&jsbk=eeba9121d981bbcd0891a05c88c09ae0
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K",CCTV-4K
-http://69.197.149.218:82/live/cctv4k.m3u8?jsbt=1789467787&jsbk=b90cf6e95e15dd9e61176008813d054f&from=zbdq7
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1789485258&jsbk=f2fe6fc1f1ac4d6790c4c17b3ffb4797&from=zbdq7
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K",CCTV-8K
-http://69.197.149.218:82/live/cctv8k.m3u8?jsbt=1789467787&jsbk=96465f79874c91bbdc57f77b2cb35ce6&from=zbdq7
+http://198.204.240.250:82/live/cctv8k.m3u8?jsbt=1789485258&jsbk=6ed603a75165eae313055ea282d775a2&from=zbdq7
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典",重温经典
-https://alicdn-gehua-live.5gtv.com.cn/live/CBN_XP_cwjdHD.m3u8?sourcenet=GEHUA&nonstr=82afb0bc-c3c9-4f38-929a-1fa343e47e3f&term=1789470944969&timestamp=1789467344969&sign=753f4b6af226047519e2490fc95fec75&t=1&v=206&auth_key=1789467345-0-0-3caeaf8317a0aa38b96b9c2b2383db75
+http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="周星驰电影" tvg-name="周星驰电影",周星驰电影
-http://74.91.23.98:82/live/lbzxc.m3u8?jsbt=1789467789&jsbk=f78172b5e334992365aafe7bcdf5aea1&from=zbdq7
+http://173.208.236.114:88/applive/lbzxc.m3u8?u=20.55.15.10&t=1789485324&k=e78b0ba2ac76897aca56ba3d178a6f98&a=zbdq7
 #EXTINF:-1 tvg-id="周润发电影" tvg-name="周润发电影",周润发电影
-http://74.91.23.98:82/live/lbzrf.m3u8?jsbt=1789467789&jsbk=38c955180f9a4f80066c0a97b98102ff&from=zbdq7
+http://173.208.236.114:88/applive/lbzrf.m3u8?u=20.55.15.10&t=1789485324&k=0543551762ded52ede4d49177fe77e54&a=zbdq7
 #EXTINF:-1 tvg-id="成龙电影" tvg-name="成龙电影",成龙电影
-http://74.91.23.98:82/live/lbcl.m3u8?jsbt=1789467789&jsbk=94405b6a5b4d694a4cdb7779868c3c9c&from=zbdq7
+http://173.208.236.114:88/applive/lbcl.m3u8?u=20.55.15.10&t=1789485325&k=78e2f4c3ad135ad16061baff3f1364c7&a=zbdq7
